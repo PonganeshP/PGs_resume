@@ -10,7 +10,7 @@
     "react-dom": "^17.0.1",
     "react-scripts": "3.4.4"
   },
-  "homepage": "https://PonganeshP.github.io/PGs_resume",
+  "homepage": "https://ponganeshp.github.io/PGs_resume/",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
