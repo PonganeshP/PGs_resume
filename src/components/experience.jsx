@@ -30,7 +30,7 @@ export default class Experience extends Component {
               <div class="card-image"></div>
               <div class="card-text">
                 <span class="date">7 months</span>
-                <h2>Sparta Migration</h2>
+                <h2>Migrating to new Pages(BOFA)</h2>
                 <p>
                   <strong>Role:</strong> Developer <br />
                   <strong>Technology:</strong> Javascript, SASS, bootstrap, html
@@ -47,7 +47,7 @@ export default class Experience extends Component {
               <div class="card-image2"></div>
               <div class="card-text">
                 <span class="date">3 months</span>
-                <h2>ICE</h2>
+                <h2>Tool development</h2>
                 <p>
                   <strong>Role:</strong> Buffer <br />
                   <strong>Technology:</strong> reactJS, Javascript, CSS, html{" "}
